@@ -1,0 +1,3 @@
+/home/jcbin/cjb_test/build/CMakeFiles/rebuild_cache.dir
+/home/jcbin/cjb_test/build/CMakeFiles/edit_cache.dir
+/home/jcbin/cjb_test/build/CMakeFiles/astar.dir
